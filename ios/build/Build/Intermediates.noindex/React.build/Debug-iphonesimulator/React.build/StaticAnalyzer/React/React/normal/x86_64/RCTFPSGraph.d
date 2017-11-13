@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/vinaychatharaju/Documents/Projects\ Demo/Remitbee/TTCRouteApp/node_modules/react-native/React/Profiler/RCTFPSGraph.m \
+  /Users/vinaychatharaju/Documents/Projects\ Demo/Remitbee/TTCRouteApp/node_modules/react-native/React/Profiler/RCTFPSGraph.h \
+  /Users/vinaychatharaju/Documents/Projects\ Demo/Remitbee/TTCRouteApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/vinaychatharaju/Documents/Projects\ Demo/Remitbee/TTCRouteApp/node_modules/react-native/React/Base/RCTAssert.h
